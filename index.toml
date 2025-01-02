@@ -301,6 +301,11 @@ hash = "74a5aad8259ea0c52f7afc6778e5831e25e624838ec6b9a290b1835c9845b68d"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "e21df5273eda4854b7d426eed98b77ffafa90c9a298a14d2f76085e55b06f0ca"
+metafile = true
+
+[[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "a377db522cb901dd73b4219d497e51554bff1489d8d8e560a0811da2bc7e5e1c"
 metafile = true
