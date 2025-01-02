@@ -9,6 +9,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "891304e6a1bb40fc15b1dc53e74c0e4fd354d7378542c60476f60064d02bc3ca"
 
 [[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "afb75bd1937ae1b2d8cbb902332408879dbb103b9d18598ac0624b263e3b7ccb"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -99,6 +103,11 @@ hash = "b4bd6b6a9cc4d2d821c176442b399139a2aa42581b2e07be77815397a917931d"
 [[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "d22d241a1eee8176561f0c16bf8396e8ded7aa8fd808cf1205cbba3bb5db56a4"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
 metafile = true
 
 [[files]]
@@ -197,6 +206,11 @@ hash = "554e16855ff3f58851c98bfefd892aa07006f40a16d37434a35e21c422dbe363"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "d5d9f89a2432ffda4ec5211b40a2885f71549f5f051af21ce6b42ae848762d24"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2917d17eef3ce35707a3eabc9eff2e1b33254dd77d316e55498d2e82a73aa4c9"
 metafile = true
@@ -204,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "9eea1d94e8be3ca49d8f889ccb65a820d6dbbba874355652752db11beb2f4852"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "f99e318b31916f54c8a84397ad3ebef068127bbc0b479b236645e0a44e822eeb"
 metafile = true
 
 [[files]]
@@ -259,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d34bc9f80fa6e36918d2af27cba73fba6966498d5160ec6fdf528f3c70c098d3"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "f1df88640f054a763956b8daa59a8ab974fc6dc4943e07ad74cee1f98c96b72d"
 metafile = true
 
 [[files]]
