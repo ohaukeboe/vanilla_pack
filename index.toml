@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "6c6c7db7a39661fdce26fe6f75a4202c671f393d972a498b09300ad3476c6ba6"
+hash = "eba222a651b72e0aebd907171461e265a1f7afde0f649be9fb601cada744b57b"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4e07e49c567dc24d9fbea4a89021fbce6bb96e4ed4fc227676a12844483436a8"
+hash = "b9ec27ce57c7e756dfbfe52cc0cdf9e67259a0297b353e1b2466d4e620684889"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3a450aae43012caa40aa291b09f123dc6663184aeee5ffd0557afd7300424284"
+hash = "4a1e969a55dee5d0d87b7f867d79577092497d7ea451e56cc173463f6cad004b"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6929417888353b302bf982432ba743d08376ea752537b25722edf0f91cd69c50"
+hash = "3ee49247a3940e276dca6f9c17d36beca94eb0b581f0d0beb5cade2e43d9663a"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d34bc9f80fa6e36918d2af27cba73fba6966498d5160ec6fdf528f3c70c098d3"
+hash = "16b5e937379b10fc0c08f484c9706f8c540fee89f3b61092619c377282a022eb"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "73338ad0c25a1ea8d1b2d0c70881bac838083bdb5ef7a8e734ce2bb6762cf878"
+hash = "74a5aad8259ea0c52f7afc6778e5831e25e624838ec6b9a290b1835c9845b68d"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "8c419d607e78ff810f0c5244183cc27acc8b22f86a65bf0a6a64815335529854"
+hash = "ea814549877edbac555247bc650dc38c7f3047aed3555dc67945c393d2e3aad7"
 metafile = true
 
 [[files]]
