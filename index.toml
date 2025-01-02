@@ -309,3 +309,8 @@ hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "8c419d607e78ff810f0c5244183cc27acc8b22f86a65bf0a6a64815335529854"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
+metafile = true
