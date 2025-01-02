@@ -1,2 +1,15 @@
-Armour Statues
-Anti Enderman Grief
+afk display
+anti enderman grief
+armor statues
+coordinates hud
+durability ping
+kill empty boats
+more mob heads
+nether portal coords
+player head drops
+silence mobs
+track raw statistics
+track statistics
+unlock all recipes
+villager workstation highlights
+wandering trades

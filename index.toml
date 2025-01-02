@@ -101,8 +101,64 @@ file = "config/yosbr/options.txt"
 hash = "b4bd6b6a9cc4d2d821c176442b399139a2aa42581b2e07be77815397a917931d"
 
 [[files]]
+file = "datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "11ef89c0bde03b62b65254cd7c0aa2a720bf37ff540e37f24d3ffb980c8b88ae"
+
+[[files]]
 file = "datapacks/anti enderman grief v1.1.10 (MC 1.21-1.21.4).zip"
 hash = "917d79fe12113389fa29f5c69c8ed6d690d8ede365c3d5df73b1f801df66a507"
+
+[[files]]
+file = "datapacks/armor statues v2.8.15 (MC 1.21-1.21.4).zip"
+hash = "de9d8b530d3bcdda22379c47b9b0bc7a51dff853c32859d2877375d84e0c59d9"
+
+[[files]]
+file = "datapacks/coordinates hud v1.2.11 (MC 1.21-1.21.4).zip"
+hash = "33a42752ca604f017ba8bde4aac5312699482ece94ebbd6dfb04f43100038f2e"
+
+[[files]]
+file = "datapacks/durability ping v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "c47d51eec684fc049d3b9f9b0a2a98d40f2c6bd6656d51e70cbbe21182b811b7"
+
+[[files]]
+file = "datapacks/kill empty boats v1.1.11 (MC 1.21-1.21.4).zip"
+hash = "3bd0e40df8d3e95c07c77fc4abe4078dd40d1b4bf5117f3b98e441a59e13a7c7"
+
+[[files]]
+file = "datapacks/more mob heads v2.15.0 (MC 1.21-1.21.4).zip"
+hash = "127298ae43c007debd92f375d7444e8cd1b74fec94b6c48ddc3192fcc68e0f9f"
+
+[[files]]
+file = "datapacks/nether portal coords v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "bd7180efde7c6219864c1110d92af417376dc02dfa0da70842aee22a49772469"
+
+[[files]]
+file = "datapacks/player head drops v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "5d957a256c7a96c9be74708b2da1065ad937395953047451e3c217bc8454cf88"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.4 (MC 1.21-1.21.4).zip"
+hash = "82cdaf8c8d9ba1f6780342d530fc537dd17be39640c015fc15a68ac4915e6cc9"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.6 (MC 1.21-1.21.4).zip"
+hash = "c5b1d7c722238be5ca3ac686ad3e6b8cf6593b35c2431b81d73ff5eb4c259dc1"
+
+[[files]]
+file = "datapacks/track statistics v1.1.12 (MC 1.21-1.21.4).zip"
+hash = "be73835eeb853117bbd006f5401679e33514b1cb49e0cd2d239a92e9c9521486"
+
+[[files]]
+file = "datapacks/unlock all recipes v2.0.11 (MC 1.21-1.21.4).zip"
+hash = "40bd7d9f8f151033a206d7ea20a72dd5067a23c1e161e02fc18fb341dab66ab6"
+
+[[files]]
+file = "datapacks/villager workstation highlights v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "75b403e87528d2163c3aea165d406f16b45d228f1585ed3e581923d8bb7a461c"
+
+[[files]]
+file = "datapacks/wandering trades v1.7.9 (MC 1.21-1.21.4).zip"
+hash = "ec19e711148121de7806adf9d480170d8cf01e18ccaa35a868d16f7a20c42cf1"
 
 [[files]]
 file = "mods/bettermounthud.pw.toml"
@@ -355,8 +411,8 @@ metafile = true
 
 [[files]]
 file = "vanillatweaks/datapacks.txt"
-hash = "a529f2da8d4942ce4c5f059237944f6f2eb30d6322931e831642b0bc1389b04a"
+hash = "2f2e38dc14da0ac937be9b412fca6a620e3bb36371466901e381a3904a3e876e"
 
 [[files]]
 file = "vanillatweaks/update-packs.py"
-hash = "0bb1ce6bb30843c24f7c30d73c244ef3a81d5a7208db93d9de929588c41e6797"
+hash = "af7729f7eeeddd1177b177f47d3d3e514b7bc7daba993f0d9432777329b25621"
